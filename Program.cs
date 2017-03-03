@@ -18,6 +18,9 @@ namespace ConsoleApplication1
             Console.WriteLine("uitkomst 1 = " + uitkomst);
             Console.WriteLine("uitkomst 2 = " + uitkomst2);
 
+            Console.WriteLine("first commit");
+            Console.WriteLine("and now");
+
         }
     }
 }
